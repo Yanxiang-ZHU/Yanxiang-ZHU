@@ -1,4 +1,4 @@
-# Yanxiang Zhu (祝彦翔)
+# Yanxiang Zhu
 
 Digital IC designer working on hardware-software co-design, SoC architecture and ASIC implementation for AI systems.
 
